@@ -14,12 +14,8 @@ It’s built to demonstrate database handling, CRUD operations, and data managem
 
 🔍 Search and filter student data
 
-💾 Secure and structured data storage (e.g., SQL/JSON/File-based depending on implementation)
-
 🛠️ Tech Stack:
 
-Programming Language: [Your Language, e.g., Python, Java, C++]
+Programming Language: [c language]
 
-Database: [e.g., MySQL, SQLite, PostgreSQL]
-
-Tools/Frameworks: [Optional if used]
+Database:[text file]
